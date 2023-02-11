@@ -6,4 +6,4 @@ this is my portfolio by python using streamlit
 
 ![third](https://user-images.githubusercontent.com/114070310/218183273-7696e4bb-aa24-4f79-aa3b-c7d510b291b6.png)
 
-![last one](https://user-images.githubusercontent.com/114070310/218183389-1aae23c9-9e28-4b81-a799-8a33380c51a7.png)
+![last one](https://user-images.githubusercontent.com/114070310/218253827-cfeb1718-c0c0-41b8-8747-c3cea841ded6.png)
